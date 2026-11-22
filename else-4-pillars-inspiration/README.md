@@ -73,6 +73,6 @@
 
 ## 🙏 קרדיט
 
-נבנה על ידי **Hani Buskila — UXTRA**. ממחזר את `figma-inspiration-board` (מכניקת הטמעת צילומים) ואת מתודולוגיית ה-competitive-analysis לבחירה.
+נבנה ע״י **else — חני בוסקילה** (Hani Buskila). ממחזר את `figma-inspiration-board` (מכניקת הטמעת צילומים) ואת מתודולוגיית ה-competitive-analysis לבחירה.
 
 רישיון: MIT.
