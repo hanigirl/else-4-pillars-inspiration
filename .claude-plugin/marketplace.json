@@ -1,0 +1,18 @@
+{
+    "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+    "name": "else-4-pillars-inspiration",
+    "version": "1.0.0",
+    "description": "Four-pillar inspiration and competitor research that lands as a FigJam board with real embedded screenshots — direct competitors, million-user apps, ecosystem/aspirational, and design trends — plus one winning flow.",
+    "owner": {
+        "name": "Hani Buskila — UXTRA",
+        "url": "https://github.com/hanigirl/else-4-pillars-inspiration"
+    },
+    "plugins": [
+        {
+            "name": "else-4-pillars-inspiration",
+            "description": "Structured inspiration + competitor research across four pillars, grounded in user pains, that builds a FigJam board of real screenshots with a 'what you see / why it's good for us' caption on each — and spotlights one winning flow.",
+            "source": "./else-4-pillars-inspiration",
+            "category": "design"
+        }
+    ]
+}
