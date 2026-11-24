@@ -81,7 +81,7 @@
 
 ## 🙏 קרדיט
 
-נבנה ע״י **else — חני בוסקילה** (Hani Buskila). ממחזר את `figma-inspiration-board` (מכניקת הטמעת צילומים) ואת מתודולוגיית ה-competitive-analysis לבחירה.
+נבנה ע״י **else — חני בוסקילה** (Hani Buskila). מבוסס על `figma-inspiration-board` (מכניקת הטמעת צילומים) ועל מתודולוגיית ה-competitive-analysis.
 
 מבוסס על מתודת **ארבעת הפילרים (4 Pillars)** של [contrastux](https://contrastux.com/).
 
