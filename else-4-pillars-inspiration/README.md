@@ -84,5 +84,3 @@
 נבנה ע״י **else — חני בוסקילה** (Hani Buskila). מבוסס על `figma-inspiration-board` (מכניקת הטמעת צילומים) ועל מתודולוגיית ה-competitive-analysis (רישיון: MIT).
 
 מבוסס על מתודת **ארבעת הפילרים (4 Pillars)** של [contrastux](https://contrastux.com/).
-
-רישיון: MIT.
