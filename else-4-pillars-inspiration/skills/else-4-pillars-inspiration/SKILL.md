@@ -169,7 +169,9 @@ When the board is built, reply with:
 
 ## Step 5 — Offer another round
 
-A board is a starting point, not a finish line — the user often wants to go deeper on one angle. **After reporting, ask through the interactive question UI (`AskUserQuestion`) whether to pull more directions / inspirations, and let them pick _which pillar(s)_** — set `multiSelect: true` with the four pillars as options plus an **"כל הפילרים / All pillars"** option. (If they want more only on, say, pillar 4, they tick just that.)
+A board is a starting point, not a finish line — the user often wants to go deeper on one angle. So **this step is mandatory: every time you finish building (or expanding) the board, you MUST ask whether they want more inspirations and from which pillar — and ask it through the interactive question UI (`AskUserQuestion`), never as plain text.** This is a hard requirement, the same as the Step 0 interview: the user explicitly asked for this question to come as a UI card at the end of each run. Do not end your turn without it (unless the user has already said they're done).
+
+Ask it as one `AskUserQuestion` card: *"רוצה עוד השראות? מאיזה פילר?"* — set `multiSelect: true` with the four pillars as the options plus an **"כל הפילרים / All pillars"** option (and the free-text / "סיימנו" escape). So they can tick just pillar 4, or several, or all.
 
 For each chosen pillar, run **another round**:
 - Search **fresh angles** you haven't used — new Mobbin queries, new adjacent domains, different Dribbble directions. **Don't repeat** a product or pattern already on the board; the whole point is new ground.
