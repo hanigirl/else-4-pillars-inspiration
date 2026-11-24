@@ -8,7 +8,16 @@
 
 ## 🚀 התקנה / Install
 
-הדביקו ב-Claude Code, שורה-שורה:
+הדביקו ב-Claude Code **שורה אחת**:
+
+```
+/plugin install else-4-pillars-inspiration --marketplace hanigirl/else-4-pillars-inspiration
+```
+
+זהו. הסקיל פעיל.
+
+<details>
+<summary>או בשתי פקודות נפרדות</summary>
 
 ```
 /plugin marketplace add hanigirl/else-4-pillars-inspiration
@@ -16,8 +25,7 @@
 ```
 /plugin install else-4-pillars-inspiration@else-4-pillars-inspiration
 ```
-
-זהו. הסקיל פעיל.
+</details>
 
 ---
 
